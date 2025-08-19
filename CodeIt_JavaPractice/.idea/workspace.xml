@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5086ea9-27b6-4dce-ba11-aab3d3a32bdc" name="Changes" comment="ㅗㅗ">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example01/.HelloWarld.java.swp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example01/.HelloWarld.java.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example01/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example02/VariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example02/VariableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example03/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example03/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example04/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example04/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example05/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example05/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example06/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example06/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example07/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example07/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example08/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example08/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example09/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example09/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example10/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example10/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example11/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example11/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head01/example12/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0811/example12/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/CoffeeMachine/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/CoffeeMachine/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example01/OOPprogramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example01/OOPprogramming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example02/OOPOrderManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example02/OOPOrderManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example02/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example02/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example03/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example03/ConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example03/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example03/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example03/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example03/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example04/EcommerceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example04/EcommerceApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head02/example04/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0812/example04/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example01/AbstractPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example01/AbstractPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example01/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example01/AccountTransferPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example01/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example01/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example01/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example01/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/AbstractPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/AbstractPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/AccountTransferPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/CryptoPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/CryptoPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example02/Topic03ExampleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example02/Topic03ExampleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example03/BusinessUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example03/BusinessUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example03/PersonalUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example03/PersonalUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example03/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example03/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example04/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example04/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example04/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example04/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example05/BusinessUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example05/BusinessUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example05/InheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example05/InheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example05/PersonalUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example05/PersonalUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example05/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example05/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example06/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example06/AccountTransferPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example06/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example06/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example06/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example06/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example06/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example06/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example06/PolymorphismTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example06/PolymorphismTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example07/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example07/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example07/PaymentServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example07/PaymentServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head03/example07/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0813/example07/UserAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/AccountTransferPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/AccountTransferPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/MobilePayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/MobilePayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/PaymentProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/PaymentProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example01/PaymentProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example01/PaymentProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example02/DipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example02/DipTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example02/EmailNotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example02/EmailNotificationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example02/NotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example02/NotificationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example02/NotificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example02/NotificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example02/SmsNotificationSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example02/SmsNotificationSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example03/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example03/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example03/Outer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example04/PaymentMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example04/PaymentMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example04/PaymentMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example04/PaymentMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example04/practice.mmd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example04/practice.mmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LecturePractice/head04/example05/ArrayVsArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LecturePractice/Day_0814/example05/ArrayVsArrayList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30zBGlEJb5Yyj2UYADkpzRCTAy2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.SpringBackendPractice [:FirstPractice.FirstPractice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example02.VariableExample.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example03.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example04.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example05.practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example06.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example07.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example08.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example09.practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example10.Practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example11.practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head01_JavaProgrammingStart.example12.practice.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.CoffeeMachine.CoffeeMachineMain.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.CoffeeMachine.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.OOPprogramming.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.example02.OOPOrderManager.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.example03.ConstructorExample.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head02.example04.EcommerceApp.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head03.example02.Topic03ExampleMain.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head03.example05.InheritanceTest.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head03.example06.PolymorphismTest.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.Head03.example07.PaymentServiceTest.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.extra.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head04.example01.PaymentProcessorTest.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head04.example02.DipTest.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head04.example03.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head04.example04.PaymentMethodDemo.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head04.example05.ArrayVsArrayList.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head05.example01.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head05.example02.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head05.example03.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:FirstPractice.head05.example04.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.Project1.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example05.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example06.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example07.Main.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example07.Main2.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example07.Main3.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example07.Main4.main()].executor": "Run",
+    "Gradle.SpringBackendPractice [:LecturePractice.Day_0818.example08.Main.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/hyungjun/Desktop/CodeIt_JavaPractice/CodeIt_JavaPractice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="FirstPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstPractice.FirstPractice" />
+      <module name="SpringBackendPractice.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LecturePractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstPractice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5086ea9-27b6-4dce-ba11-aab3d3a32bdc" name="Changes" comment="" />
+      <created>1754620427426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754620427426</updated>
+      <workItem from="1754620428737" duration="8231000" />
+      <workItem from="1754630198008" duration="8000" />
+      <workItem from="1754630224452" duration="16016000" />
+      <workItem from="1754878729532" duration="19556000" />
+      <workItem from="1754961879706" duration="5937000" />
+      <workItem from="1754970860824" duration="33018000" />
+      <workItem from="1755143623576" duration="10821000" />
+      <workItem from="1755479412512" duration="18654000" />
+      <workItem from="1755583063911" duration="245000" />
+      <workItem from="1755584294890" duration="322000" />
+    </task>
+    <task id="LOCAL-00001" summary="ㅏㅏ">
+      <option name="closed" value="true" />
+      <created>1754633597611</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754633597611</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ㅗㅗ">
+      <option name="closed" value="true" />
+      <created>1754633611925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754633611925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ㅏㅏ" />
+    <MESSAGE value="ㅗㅗ" />
+    <option name="LAST_COMMIT_MESSAGE" value="ㅗㅗ" />
+  </component>
+</project>
